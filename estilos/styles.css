@@ -264,6 +264,19 @@ footer {
     position: static;
   }
 
+  .banner {
+    padding-bottom: 0.5rem;
+  }
+
+  .principal {
+    padding: 0.6rem;
+  }
+
+  .conteudo-beneficios {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
   .lista-beneficios {
     width: 100%;
     text-align: center;
@@ -271,7 +284,7 @@ footer {
 
   .imagem-beneficios {
     width: 90%;
-    margin: 2em 1em 0em 1em;
+    margin: 2em 1em 1em 1em;
   }
 
   /*
@@ -373,7 +386,7 @@ footer {
   */
   .menu {
     position: absolute;
-    width: 40%;
+    width: 90%;
     margin: -100px 0 0 -50px;
     padding: 50px;
     padding-top: 125px;
