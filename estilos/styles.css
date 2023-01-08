@@ -253,7 +253,8 @@ footer {
   .conteudo-beneficios,
   .mapa-conteudo,
   .video {
-    width: 375px;
+    width: auto;
+    margin: 0 1rem;
   }
 
   h1 {
