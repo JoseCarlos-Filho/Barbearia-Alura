@@ -44,3 +44,19 @@
   font-weight: bold;
   margin-top: 10px;
 }
+
+@media (max-width: 480px) {
+  .produtos {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .produtos li {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+  }
+}
