@@ -1,6 +1,5 @@
-@import "./styles-produtos.css";
-@import "./styles-contato.css";
-@import "./midiaquiries.css";
+/* @import "./styles-produtos.css"; */
+@import "./menu-hamburguer.css";
 
 body {
   font-family: "Montserrat", sans-serif;
@@ -149,3 +148,53 @@ footer {
   width: 560px;
   margin: 1em auto;
 }
+
+/* Seção de responsividade page home(index.html) */
+
+@media screen and (max-width: 480px) {
+  .box-header,
+  .principal,
+  .conteudo-beneficios,
+  .mapa-conteudo,
+  .video {
+    width: auto;
+    padding: 0rem 1rem;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  nav {
+    position: static;
+  }
+
+  .banner {
+    padding-bottom: 0.5rem;
+  }
+
+  .principal {
+    padding: 0.6rem;
+  }
+
+  .conteudo-beneficios {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .lista-beneficios {
+    width: 100%;
+    text-align: center;
+  }
+
+  .imagem-beneficios {
+    width: 90%;
+    margin: 2em 1em 1em 1em;
+  }
+}
+
+/* @media screen and (min-width: 500px) {
+  .menuToggle input {
+    display: none;
+  }
+} */
