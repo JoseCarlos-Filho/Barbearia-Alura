@@ -158,7 +158,6 @@ footer {
   .mapa-conteudo,
   .video {
     width: auto;
-    padding: 0rem 1rem;
   }
 
   h1 {
@@ -181,18 +180,25 @@ footer {
     padding: 2rem 0rem;
   }
 
+  .beneficios {
+    padding: 2rem 0rem;
+  }
+
   .conteudo-beneficios {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
   }
 
   .lista-beneficios {
     width: 100%;
     text-align: center;
+    padding-bottom: 1.5rem;
   }
 
   .imagem-beneficios {
     width: 90%;
-    margin: 2em 1em 1em 1em;
+
+    /* margin: 2em 1em 1em 1em; */
   }
 }
