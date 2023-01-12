@@ -174,7 +174,11 @@ footer {
   }
 
   .principal {
-    padding: 0.6rem;
+    padding: 1.5rem;
+  }
+
+  .mapa {
+    padding: 2rem 0rem;
   }
 
   .conteudo-beneficios {
