@@ -160,6 +160,10 @@ footer {
     width: auto;
   }
 
+  .mapa-conteudo {
+    padding: 1rem;
+  }
+
   h1 {
     text-align: center;
   }
@@ -198,7 +202,9 @@ footer {
 
   .imagem-beneficios {
     width: 90%;
+  }
 
-    /* margin: 2em 1em 1em 1em; */
+  .video {
+    padding: 1rem;
   }
 }
