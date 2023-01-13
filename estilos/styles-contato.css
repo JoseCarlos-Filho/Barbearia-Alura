@@ -53,3 +53,12 @@ th {
   border: 1px solid #000000;
   padding: 8px 15px;
 }
+
+@media screen and (max-width: 480px) {
+  form {
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-direction: column; */
+    margin: 0 auto;
+  }
+}
