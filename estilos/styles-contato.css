@@ -65,6 +65,6 @@ th {
 
   form legend {
     margin: 1rem 0rem;
-    overflow-wrap: break-word;
+    padding-right: 4rem;
   }
 }
