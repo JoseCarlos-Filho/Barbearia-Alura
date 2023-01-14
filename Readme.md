@@ -11,8 +11,8 @@
 # Projeto Barbearia Alura
 
   <h5>
-      Projeto proposto pela plataforma da alura durante o treinamento de HTML5 e CSS3<br>
-      com o objetivo de colocar em prática os conceitos básicos da construção de uma landing page.<br>
+    Projeto proposto pela plataforma da alura durante o treinamento de HTML5 e CSS3<br>
+    com o objetivo de colocar em prática os conceitos básicos da construção de uma landing page.<br>
   </h5>
 
 ## Video de apresentação.
@@ -22,15 +22,15 @@
 ## Conteúdo
 
   <h5>
-      Utilizar elementos básicos do HTML5 que compreende a estrutura básica do:<br> 
-         - head: informações que o navegador lê para a compreenção de um documento html como<br>
-           tipo de documento "utf-8", exibição da página, link de fonts e estilos.
-
-        - body: corpo da página a ser exibida no navegador com links, titulo, imagem, textos.
-
+    Utilizar elementos básicos do HTML5 que compreende a estrutura básica do:<br> 
+    - head: informações que o navegador lê para a compreenção de um documento html como<br>
+      tipo de documento "utf-8", exibição da página, link de fonts e estilos.<br>
+    - body: corpo da página a ser exibida no navegador com links, titulo, imagem, textos.
   </h5>
 
 ### Deploy
+
+[Barbearia Alura](https://josecarlos-filho.github.io/Barbearia-Alura/)
 
 ### Resumo
 
