@@ -54,11 +54,12 @@ th {
   padding: 8px 15px;
 }
 
-@media screen and (max-width: 480px) {
-  form {
-    display: flex;
-    flex-wrap: wrap;
-    /* flex-direction: column; */
-    margin: 0 auto;
+@media (max-width: 480px) {
+  .input-padrao {
+    border-radius: 5px;
+  }
+
+  .enviar {
+    width: 70%;
   }
 }
