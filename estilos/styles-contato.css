@@ -62,4 +62,8 @@ th {
   .enviar {
     width: 70%;
   }
+
+  form legend {
+    margin: 1rem 0rem;
+  }
 }
