@@ -17,7 +17,7 @@
 
 ## Video de apresentação.
 
-[Video](./assets/BarbeariaAlura.mp4);
+![Video](/assets/BarbeariaAlura.mp4);
 
 ## Conteúdo
 
