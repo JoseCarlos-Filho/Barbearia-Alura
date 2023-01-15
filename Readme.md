@@ -2,8 +2,6 @@
   - [Video de apresentação.](#video-de-apresentação)
   - [Conteúdo](#conteúdo)
     - [Deploy](#deploy)
-    - [Resumo](#resumo)
-    - [Descrição](#descrição)
     - [O que aprendeu.](#o-que-aprendeu)
     - [Techs Utilizadas](#techs-utilizadas)
     - [Contato](#contato)
@@ -32,14 +30,7 @@
 
 [Barbearia Alura](https://josecarlos-filho.github.io/Barbearia-Alura/)
 
-### Resumo
-
-### Descrição
-
 ### O que aprendeu.
-
-    #### JavaScript:
-
 
     #### HTML5
 
