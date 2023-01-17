@@ -36,15 +36,18 @@
 
 #### HTML5
 
-    - head: informações interpretadas pelo navegador de internet no momento em que o documento html é carregado.
-    - body: informações exibidas no navegador ao carregar a página html.
-    - links de navegação em uma página html.
-    - header: cabeçalho da página.
-    - main: conteudo principal da página html.
-    - padrão de utilização de títulos com as tags: h1, h2 e h3.
-    -
+- head: informações interpretadas pelo navegador de internet no momento em que o documento html é carregado.
+- body: informações exibidas no navegador ao carregar a página html.
+- links de navegação em uma página html.
+- header: cabeçalho da página.
+- main: conteudo principal da página html.
+- padrão de utilização de títulos com as tags: h1, h2 e h3.
+- section: seção da página
+- div: divisão de bloco com elementos html.
 
 #### CSS3
+
+- menu hamburguer
 
 ### Techs Utilizadas
 
